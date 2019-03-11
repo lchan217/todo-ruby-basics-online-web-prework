@@ -19,8 +19,8 @@ def return_a_value
 end
 
 def last_evaluated_value
-  return "something else"
-  return "expert"
+   "something else"
+   "expert"
 end
 
 def pizza_party
